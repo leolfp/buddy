@@ -30,9 +30,6 @@
 
 #endif
 
-
-
-
 using namespace m5avatar;
 
 Avatar avatar;
